@@ -63,5 +63,9 @@ Use System Restore or your exported registry backup to roll back the edits.
 
 If services remain disabled, set their startup type to "Automatic" via services.msc.
 
+## How to use ?
+
+open file .bat and . reg
+
 ## telegram
 https://t.me/CodeHub3363
