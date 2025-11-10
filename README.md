@@ -62,3 +62,6 @@ Restore the system or import your saved registry file if you encounter problems.
 Use System Restore or your exported registry backup to roll back the edits.
 
 If services remain disabled, set their startup type to "Automatic" via services.msc.
+
+## telegram
+https://t.me/CodeHub3363
